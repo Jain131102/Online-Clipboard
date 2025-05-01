@@ -1,0 +1,9 @@
+com\example\webclipboard\WebClipboardApplication.class
+com\example\webclipboard\controller\ClipController$LoadResponse.class
+com\example\webclipboard\scheduler\ClipCleanupScheduler.class
+com\example\webclipboard\controller\ClipController$SaveResponse.class
+com\example\webclipboard\service\ClipService.class
+com\example\webclipboard\model\Clip.class
+com\example\webclipboard\controller\ClipController$SaveRequest.class
+com\example\webclipboard\controller\ClipController.class
+com\example\webclipboard\model\ClipRepository.class
