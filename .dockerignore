@@ -1,0 +1,8 @@
+**/.mvn
+**/target
+**/.git
+**/.gitignore
+**/*.iml
+**/.idea
+**/Dockerfile
+**/README.md
